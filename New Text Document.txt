@@ -1,0 +1,26 @@
+radomboon.t@gmail.com
+Folder = linechatbot/
+google sheet name = google_api_mobile_operator
+url sheet = https://docs.google.com/spreadsheets/d/1o9fPEjsk-D_c9j6WeYbwMQtmdsq-HTEbw3E7_rnuUSA/edit#gid=0
+
+console.developers.google.com = 25 oct 2019 bank python
+https://console.developers.google.com/apis/credentials?project=oct-2019-bank-python&hl=th
+
+credentials.json
+"client_email" = "bank-638@oct-2019-bank-python.iam.gserviceaccount.com"
+
+Python
+Folder name = oct19_google_api
+
+Line Developer (Login = radomboon.t@gmail.com)
+Provider List = crod_bank
+messaging API = radomboon
+Channel ID = 1653392314
+Channel secret = 38810d0e0744013e95b6f18c0010899b
+
+Channel access token =
+apiNXSRhFfgIJ+ueODzpaYbWloo8mtcVvhp7n6fZAN4/yZ4DWbQChvwxOULpt0c3iUbw1gfvu8HotYNTmvwaCiWVZiGuMoq7mcLQezNZ9J9vlvcDt/1QJXmL1elGMqRX8xOvdSGYjzdeKmQnsMLP2gdB04t89/1O/w1cDnyilFU=
+
+Basic ID = @177rcmrq
+
+Your user ID = Uf04d56926798800ba938863af536393e
